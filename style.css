@@ -1,0 +1,30 @@
+h1{
+    color:brown;
+    background-color: goldenrod;
+    text-align: center;
+    text-shadow: 2px 2px 5px yellow;
+    font-family:Georgia;
+    font-size: 90px;
+    }
+   
+
+.bfly{
+border-style: solid;
+border-width: 3px;
+border-color: brown;
+}
+.linking{
+    border-style: solid;
+    border-width: 3px;
+    border-color: brown;
+   ;
+
+
+}
+body{
+    border-style:groove;
+    border-width: 2cm ;
+    border-color: rgb(139, 0, 0);
+    background-image: url(bg.jpg)
+     }
+
